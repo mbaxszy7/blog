@@ -7,7 +7,7 @@ my fe-learning blogs
 - [ ] 相对长度
 - [x] 定位和层叠（z-index）上下文 https://github.com/mbaxszy7/blog/issues/2
 - [x] 盒模型 https://github.com/mbaxszy7/blog/issues/3
-- [ ] CSS格式化上下文
+- [x] CSS格式化上下文 https://github.com/mbaxszy7/blog/issues/4
 - [ ] 层叠、优先级和继承
 - [ ] 页面布局
 - [ ] 渲染相关
