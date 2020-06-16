@@ -12,6 +12,8 @@ my learning blogs
 - [ ] 渲染相关
 
 ### css 难搞的case整理
+- [ ] 什么是containing block
+- [ ] absolute的containing block计算方式跟正常流有什么不同
 
 ## webpack
 ### webpack基础
