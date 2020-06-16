@@ -18,10 +18,11 @@ my learning blogs
 - 几个基础概念
 ### webpack进阶
 - webpack是如何实现动态导入的
-- webpack 优化策略整理
+- webpack 文件监听 和 模块热更新的原理
 - webpack tree shaking
 - webpack scope hoisting
-- webpack 文件监听 和 模块热更新的原理
+- webpack 优化策略整理
+- 编写一个类似webpack的bundler
 - 写一个webpack loader
 - 写一个webpack plugins
 
