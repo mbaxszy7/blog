@@ -5,7 +5,7 @@ my learning blogs
 ### css几个重要的理论知识
 - [ ] CSS 选择器
 - [ ] 相对长度
-- [ ] 定位和层叠（z-index）上下文
+- [x] 定位和层叠（z-index）上下文 https://github.com/mbaxszy7/blog/issues/2
 - [ ] 盒模型
 - [ ] 层叠、优先级和继承
 - [ ] 页面布局
