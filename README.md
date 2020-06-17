@@ -3,7 +3,7 @@ my fe-learning blogs
 
 ## css
 ### css几个重要的理论知识
-- [ ] CSS 选择器
+- [x] CSS 选择器 https://github.com/mbaxszy7/blog/issues/5
 - [ ] 相对长度
 - [x] 定位和层叠（z-index）上下文 https://github.com/mbaxszy7/blog/issues/2
 - [x] 盒模型 https://github.com/mbaxszy7/blog/issues/3
