@@ -19,7 +19,7 @@ my fe-learning blogs
 - [ ] 几个基础概念
 ### webpack进阶
 - [x] webpack是如何实现动态导入的 https://github.com/mbaxszy7/blog/issues/1
-- [ ] webpack 文件监听 和 模块热更新的原理
+- [ ] webpack 模块热更新的原理和实践
 - [ ] webpack tree shaking
 - [ ] webpack scope hoisting
 - [ ] webpack 优化策略整理
