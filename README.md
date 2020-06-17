@@ -2,17 +2,16 @@
 my fe-learning blogs
 
 ## css
-### css几个重要的理论知识
+### css几个重要的基础知识
 - [x] CSS 选择器 https://github.com/mbaxszy7/blog/issues/5
-- [ ] 相对长度
+- [x] 相对长度 https://github.com/mbaxszy7/blog/issues/6
 - [x] 定位和层叠（z-index）上下文 https://github.com/mbaxszy7/blog/issues/2
 - [x] 盒模型 https://github.com/mbaxszy7/blog/issues/3
 - [x] CSS格式化上下文 https://github.com/mbaxszy7/blog/issues/4
-- [ ] 层叠、优先级和继承
-- [ ] 页面布局
-- [ ] 渲染相关
+- [x] 层叠、优先级和继承 https://github.com/mbaxszy7/blog/issues/7
+- [x] 渲染相关 https://github.com/mbaxszy7/blog/issues/new
 
-### css 难搞的case整理
+### css case整理
 - [ ] 什么是containing block
 - [ ] absolute的containing block计算方式跟正常流有什么不同
 
