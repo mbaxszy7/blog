@@ -2,7 +2,7 @@
 my fe-learning blogs
 
 ## css
-### css几个重要的基础知识
+### css几个重要的基础知识 【根据 CSS In Depth 总结】
 - [x] CSS 选择器 https://github.com/mbaxszy7/blog/issues/5
 - [x] 相对长度 https://github.com/mbaxszy7/blog/issues/6
 - [x] 定位和层叠（z-index）上下文 https://github.com/mbaxszy7/blog/issues/2
