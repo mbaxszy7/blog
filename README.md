@@ -21,7 +21,7 @@ my fe-learning blogs
 - [x] webpack是如何实现动态导入的 https://github.com/mbaxszy7/blog/issues/1
 - [ ] webpack 模块热更新的原理和实践
 - [ ] webpack tree shaking 深入实践 https://github.com/mbaxszy7/blog/issues/9
-- [ ] webpack scope hoisting
+- [ ] webpack scope hoisting https://github.com/mbaxszy7/blog/issues/10
 - [ ] 优化webpack整理
 - [ ] 编写一个类似webpack的bundler
 - [ ] 写一个webpack loader
