@@ -29,18 +29,31 @@ my fe-learning blogs
 - [ ] webpack优化前端项目整理
 
 ## react
-### react基础
-### react几个重要部分的源码和原理
+- [ ] setState
+- [ ] react fiber
+- [ ] react virtual dom
+- [ ] react中的更新
+- [ ] react diff
+- [ ] react hooks
+- [ ] react中的事件
+- [ ] react 的 suspense 与 concurrent mode
+
 ### react ssr
+- [ ] react 中用于ssr的api
+- [ ] react-ssr 项目实践的分析
+
 ### next
+- [ ] 在next中可以借鉴的地方
 
 ## redux
-### redux概念和原理
-### redux源码阅读整理
+- [ ] redux概念和原理
+  - [ ] redux 为什么要把 reducer 设计成纯函数
+- [ ] redux源码阅读整理
 
 ## mobx
-### mobx概念和原理
-### 项目实践
+- [ ] mobx概念和原理
+- [ ] react mobx项目实践的分析
+- [ ] 在react世界中 redux vs mobx
 
 ## Js基础
 
