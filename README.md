@@ -29,11 +29,11 @@ my fe-learning blogs
 - [ ] webpack优化前端项目整理
 
 ## react
-- [ ] setState
 - [ ] react fiber
-- [ ] react virtual dom
+- [ ] setState
 - [ ] react中的更新
 - [ ] react diff
+- [ ] react virtual dom
 - [ ] react hooks
 - [ ] react中的事件
 - [ ] react 的 suspense 与 concurrent mode
