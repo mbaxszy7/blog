@@ -23,7 +23,7 @@ my fe-learning blogs
 - [x] webpack tree shaking 深入实践 https://github.com/mbaxszy7/blog/issues/9
 - [x] webpack scope hoisting https://github.com/mbaxszy7/blog/issues/10
 - [ ] 优化webpack整理
-- [ ] 编写一个类似webpack的bundler
+- [ ] 编写一个类似webpack的bundler https://github.com/mbaxszy7/blog/issues/13
 - [ ] 写一个webpack loader
 - [ ] 写一个webpack plugins
 - [ ] webpack优化前端项目整理
