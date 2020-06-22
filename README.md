@@ -28,10 +28,12 @@ my fe-learning blogs
 - [ ] 写一个webpack plugins
 - [ ] webpack优化前端项目整理
 
-## react
-- [ ] react fiber
-- [ ] setState
+## react原理系列
+- [ ] react的首次渲染
 - [ ] react中的更新
+
+- [ ] react fiber
+- [ ] react setState
 - [ ] react diff
 - [ ] react virtual dom
 - [ ] react hooks
