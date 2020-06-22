@@ -30,7 +30,7 @@ my fe-learning blogs
 
 ## react原理系列
 
-- [ ] react fiber
+- [ ] react fiber https://github.com/mbaxszy7/blog/issues/14
 - [ ] react virtual dom
 
 - [ ] react的首次渲染
