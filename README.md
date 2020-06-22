@@ -29,13 +29,17 @@ my fe-learning blogs
 - [ ] webpack优化前端项目整理
 
 ## react原理系列
-- [ ] react的首次渲染
-- [ ] react中的更新
 
 - [ ] react fiber
+- [ ] react virtual dom
+
+- [ ] react的首次渲染
+- [ ] react中的更新
+- [ ] react是如何执行副作用的 (比如生命周期函数).
+
 - [ ] react setState
 - [ ] react diff
-- [ ] react virtual dom
+
 - [ ] react hooks
 - [ ] react中的事件
 - [ ] react 的 suspense 与 concurrent mode
