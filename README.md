@@ -37,7 +37,7 @@ my fe-learning blogs
 - [ ] react中的更新
 - [ ] react是如何执行副作用的 (比如生命周期函数).
 
-- [ ] react setState
+- [ ] react setState https://github.com/mbaxszy7/blog/issues/15
 - [ ] react diff
 
 - [ ] react hooks
