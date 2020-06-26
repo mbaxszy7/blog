@@ -32,10 +32,9 @@ my fe-learning blogs
 
 - [ ] react fiber https://github.com/mbaxszy7/blog/issues/14
 - [ ] react virtual dom https://github.com/mbaxszy7/blog/issues/new
+- [ ] react 的两个主要阶段：render阶段和commit阶段 https://github.com/mbaxszy7/blog/issues/new
 
-- [ ] react的首次渲染
 - [ ] react中的更新
-- [ ] react是如何执行副作用的 (比如生命周期函数).
 
 - [ ] react setState https://github.com/mbaxszy7/blog/issues/15
 - [ ] react diff
