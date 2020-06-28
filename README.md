@@ -31,9 +31,8 @@ my fe-learning blogs
 ## react原理系列
 
 - [ ] react fiber https://github.com/mbaxszy7/blog/issues/14
-- [ ] react virtual dom https://github.com/mbaxszy7/blog/issues/new
-- [ ] react 的两个主要阶段：render阶段和commit阶段 https://github.com/mbaxszy7/blog/issues/new
-
+- [ ] react virtual dom 
+- [ ] react 的两个主要阶段：render阶段和commit阶段 https://github.com/mbaxszy7/blog/issues/16
 - [ ] react中的更新
 
 - [ ] react setState https://github.com/mbaxszy7/blog/issues/15
