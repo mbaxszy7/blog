@@ -32,7 +32,7 @@ my fe-learning blogs
 
 - [ ] react fiber https://github.com/mbaxszy7/blog/issues/14
 - [ ] react 的两个主要阶段：render阶段和commit阶段 https://github.com/mbaxszy7/blog/issues/16
-- [ ] react中的更新 涉及到的源码太多了，写不了好的，贴一篇写得好的 [React源码揭秘2 组件更新](https://juejin.im/post/5eb9030b6fb9a043333c6071#heading-10)
+- [ ] react中的更新 涉及到的源码太多了，写不了好的，贴一篇写得非常不错的 [React源码揭秘2 组件更新](https://juejin.im/post/5eb9030b6fb9a043333c6071#heading-10)
 
 - [ ] react setState https://github.com/mbaxszy7/blog/issues/15
 - [ ] react diff https://github.com/mbaxszy7/blog/issues/17
