@@ -36,7 +36,7 @@ my fe-learning blogs
 - [ ] react中的更新
 
 - [ ] react setState https://github.com/mbaxszy7/blog/issues/15
-- [ ] react diff
+- [ ] react diff https://github.com/mbaxszy7/blog/issues/17
 
 - [ ] react hooks
 - [ ] react中的事件
