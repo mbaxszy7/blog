@@ -48,10 +48,7 @@ my fe-learning blogs
 ### next
 - [ ] 在next中可以借鉴的地方
 
-## redux
-- [ ] redux概念和原理
-  - [ ] redux 为什么要把 reducer 设计成纯函数
-- [ ] redux源码阅读整理
+## [Redux 原理解析](https://github.com/mbaxszy7/blog/issues/18)
 
 ## mobx
 - [ ] mobx概念和原理
