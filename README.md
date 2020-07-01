@@ -48,7 +48,9 @@ my fe-learning blogs
 ### next
 - [ ] 在next中可以借鉴的地方
 
-## [Redux 原理解析](https://github.com/mbaxszy7/blog/issues/18)
+## Redux
+- [x] [Redux 原理解析](https://github.com/mbaxszy7/blog/issues/18)
+- [ ] [react-redux 原理解析]()
 
 ## mobx
 - [ ] mobx概念和原理
