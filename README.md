@@ -5,7 +5,7 @@ my fe-learning blogs
 ### css几个重要的基础知识 【根据 CSS In Depth 总结】
 - [x] [CSS 选择器](https://github.com/mbaxszy7/blog/issues/5)
 - [x] [相对长度](https://github.com/mbaxszy7/blog/issues/6)
-- [x] [定位和层叠（z-index）](上下文 https://github.com/mbaxszy7/blog/issues/2)
+- [x] [定位和层叠z-index](上下文 https://github.com/mbaxszy7/blog/issues/2)
 - [x] [盒模型](https://github.com/mbaxszy7/blog/issues/3)
 - [x] [CSS格式化上下文](https://github.com/mbaxszy7/blog/issues/4)
 - [x] [层叠、优先级和继承](https://github.com/mbaxszy7/blog/issues/7)
@@ -23,7 +23,7 @@ my fe-learning blogs
 - [x] [webpack tree shaking 深入实践](https://github.com/mbaxszy7/blog/issues/9)
 - [x] [webpack scope hoisting](https://github.com/mbaxszy7/blog/issues/10)
 - [ ] 优化webpack整理
-- [ ] [编写一个类似webpack的bundler](https://github.com/mbaxszy7/blog/issues/13)
+- [x] [编写一个类似webpack的bundler](https://github.com/mbaxszy7/blog/issues/13)
 - [ ] 写一个webpack loader
 - [ ] 写一个webpack plugins
 - [ ] webpack优化前端项目整理
