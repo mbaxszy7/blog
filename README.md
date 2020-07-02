@@ -29,7 +29,6 @@ my fe-learning blogs
 - [ ] webpack优化前端项目整理
 
 ## react原理系列
-
 - [x] [react fiber](https://github.com/mbaxszy7/blog/issues/14)
 - [x] [react 的两个主要阶段：render阶段和commit阶段](https://github.com/mbaxszy7/blog/issues/16)
 - [x] react中的更新 涉及到的源码太多了，写不了好的，贴一篇写得非常不错的 [React源码揭秘2 组件更新](https://juejin.im/post/5eb9030b6fb9a043333c6071#heading-10)
@@ -42,19 +41,18 @@ my fe-learning blogs
 - [ ] react 的 suspense 与 concurrent mode
 
 ### react ssr
-- [ ] react 中用于ssr的api
 - [ ] react-ssr 项目实践的分析
-
-### next
-- [ ] 在next中可以借鉴的地方
 
 ## Redux
 - [x] [Redux 原理解析](https://github.com/mbaxszy7/blog/issues/18)
-- [ ] [react-redux 原理解析]()
 
 ## mobx
 - [ ] mobx概念和原理
-- [ ] react mobx项目实践的分析
+  - [ ] 理解observable
+  - [ ] 理解autorun 和 reaction
+  - [ ] 理解computed
+  - [ ] 实现一个微型mobx
+  
 - [ ] 在react世界中 redux vs mobx
 
 ## Js基础
