@@ -47,13 +47,7 @@ my fe-learning blogs
 - [x] [Redux 原理解析](https://github.com/mbaxszy7/blog/issues/18)
 
 ## mobx
-- [ ] mobx概念和原理
-  - [ ] 理解observable
-  - [ ] 理解autorun 和 reaction
-  - [ ] 理解computed
-  - [ ] 实现一个微型mobx
-  
-- [ ] 在react世界中 redux vs mobx
+- [ ] [mobx的依赖管理和更新原理浅析](https://github.com/mbaxszy7/blog/issues/20)
 
 ## Js基础
 
