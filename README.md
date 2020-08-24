@@ -16,6 +16,7 @@ my fe-learning blogs
 - react中的更新 涉及到的源码太多了，贴一篇写得非常不错的 [React源码揭秘2 组件更新](https://juejin.im/post/5eb9030b6fb9a043333c6071#heading-10)
 - [react setState](https://github.com/mbaxszy7/blog/issues/15)
 - [react diff](https://github.com/mbaxszy7/blog/issues/17)
+- [react ssr 实践:基于 React 实现的仿 MOO 音乐风格的音乐网站，支持 PWA](https://github.com/mbaxszy7/pika-music)
 
 ## Redux
 - [Redux 原理解析](https://github.com/mbaxszy7/blog/issues/18)
